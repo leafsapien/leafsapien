@@ -7,5 +7,5 @@ I'm Anaya, welcome to my Github.
 - 🌱 I just finished my Cert 3 in Information Technology (Software Programming) through Tafe
 - 🔭 I’m a "Future" Developer, because I'm developing my future...  Get it?...  
 - 👯 I love lifting up others and giving back to the She Codes Community
-- 📫 You can reach me on [Linkedin](www.linkedin.com/in/anaya-dodge-71a61b109)
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/anaya-dodge-71a61b109)
 
